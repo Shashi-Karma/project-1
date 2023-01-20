@@ -1,6 +1,78 @@
 .App {
   text-align: center;
 }
+.navbar{
+  position: absolute;
+width: 1920px;
+height: 93px;
+left: 0px;
+top: 0px;
+
+background: #F8FAFF;
+box-shadow: 5px 5px 13px rgba(191, 193, 196, 0.7);
+border-radius: 0px 0px 8px 8px;
+}
+.navbar-brand1{
+  position: absolute;
+width: 38px;
+height: 38px;
+left: 1837px;
+top: 27px;
+}
+.navbar-brand2{
+  position: absolute;
+left: 73.18%;
+right: 25.26%;
+top: 30.87%;
+bottom: 50.35%;
+}
+.money{
+  position: absolute;
+width: 304px;
+height: 228px;
+left: 1366px;
+top: 815px;
+}
+
+
+
+.form-control{
+  box-sizing: border-box;
+
+position: absolute;
+width: 493px;
+height: 59px;
+left: 963px;
+top: 17px;
+
+background: #FFFFFF;
+border: 1px solid #B2B2B1;
+box-shadow: inset 4px -4px 8px rgba(217, 217, 217, 0.2), inset -4px 4px 8px rgba(217, 217, 217, 0.2), inset 4px 4px 8px rgba(255, 255, 255, 0.9), inset -4px -4px 10px rgba(217, 217, 217, 0.9);
+border-radius: 15px;
+}
+.form-control1{
+  box-sizing: border-box;
+
+position: absolute;
+width: 793px;
+height: 59px;
+left: 173px;
+top: 279px;
+
+background: #FFFFFF;
+box-shadow: inset -5px 5px 10px rgba(232, 232, 232, 0.2), inset 5px -5px 10px rgba(232, 232, 232, 0.2), inset -5px -5px 10px rgba(255, 255, 255, 0.9), inset 5px 5px 13px rgba(232, 232, 232, 0.9);
+border-radius: 21px;
+}
+.navbar-brand{
+  position: absolute;
+left: 9.27%;
+right: 87.74%;
+top: 0.93%;
+bottom: 92.31%;
+
+
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +108,249 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 186px;
+top: 540px;
+
+background: #F8FAFF;
+border: 1px solid rgba(215, 240, 255, 0.6);
+box-shadow: -7px 7px 14px rgba(220, 220, 220, 0.2), 7px -7px 14px rgba(220, 220, 220, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(220, 220, 220, 0.9);
+border-radius: 21px;
+}
+.card2{
+  box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 482px;
+top: 540px;
+
+background: #F8FAFF;
+border: 1px solid rgba(215, 240, 255, 0.6);
+box-shadow: -7px 7px 14px rgba(220, 220, 220, 0.2), 7px -7px 14px rgba(220, 220, 220, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(220, 220, 220, 0.9);
+border-radius: 21px;
+}
+.card3{
+  box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 779px;
+top: 540px;
+
+background: #F8FAFF;
+border: 1px solid rgba(215, 240, 255, 0.6);
+box-shadow: -7px 7px 14px rgba(220, 220, 220, 0.2), 7px -7px 14px rgba(220, 220, 220, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(220, 220, 220, 0.9);
+border-radius: 21px;
+}
+.card4{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 499px;
+  height: 84px;
+  left: 1301px;
+  top: 305px;
+  
+  background: #F8FAFF;
+  border: 1px solid rgba(215, 240, 255, 0.6);
+  box-shadow: -7px 7px 14px rgba(220, 220, 220, 0.2), 7px -7px 14px rgba(220, 220, 220, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(220, 220, 220, 0.9);
+  border-radius: 21px;
+}
+.card5{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 499px;
+  height: 84px;
+  left: 1301px;
+  top: 425px;
+  
+  background: #F8FAFF;
+  border: 1px solid rgba(215, 240, 255, 0.6);
+  box-shadow: -7px 7px 14px rgba(223, 225, 230, 0.2), 7px -7px 14px rgba(223, 225, 230, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(223, 225, 230, 0.9);
+  border-radius: 21px;
+  
+}
+.card6{box-sizing: border-box;
+
+  position: absolute;
+  width: 499px;
+  height: 84px;
+  left: 1301px;
+  top: 545px;
+  
+  background: #F8FAFF;
+  border: 1px solid rgba(215, 240, 255, 0.6);
+  box-shadow: -7px 7px 14px rgba(223, 225, 230, 0.2), 7px -7px 14px rgba(223, 225, 230, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(223, 225, 230, 0.9);
+  border-radius: 21px;
+  
+}
+.card7{box-sizing: border-box;
+
+  position: absolute;
+  width: 499px;
+  height: 84px;
+  left: 1301px;
+  top: 665px;
+  
+  background: #F8FAFF;
+  border: 1px solid rgba(215, 240, 255, 0.6);
+  box-shadow: -7px 7px 14px rgba(223, 225, 230, 0.2), 7px -7px 14px rgba(223, 225, 230, 0.2), -7px -7px 14px rgba(255, 255, 255, 0.9), 7px 7px 18px rgba(223, 225, 230, 0.9);
+  border-radius: 21px;
+  
+}
+.hand{
+  position: absolute;
+width: 470px;
+height: 91.25px;
+left: 173px;
+top: 144.28px;
+
+}
+.card1{
+  box-sizing: border-box;
+
+position: absolute;
+width: 793px;
+height: 118px;
+left: 177px;
+top: 370px;
+
+background: #F8FAFF;
+border: 1px solid rgba(215, 240, 255, 0.6);
+box-shadow: -5px 5px 10px rgba(233, 235, 240, 0.2), 5px -5px 10px rgba(233, 235, 240, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.9), 5px 5px 13px rgba(233, 235, 240, 0.9), inset 1px 1px 2px rgba(255, 255, 255, 0.3), inset -1px -1px 2px rgba(233, 235, 240, 0.5);
+border-radius: 21px;
+}
+
+.line{
+  position: absolute;
+width: 101px;
+height: 0px;
+left: 440px;
+top: 12px;
+
+border: 0.5px solid rgba(16, 26, 115, 0.6);
+transform: rotate(90deg);
+}
+.line1{
+  position: absolute;
+width: 466px;
+height: 0px;
+left: 999px;
+top: 535px;
+
+border: 1.5px solid #AFCFFF;
+transform: rotate(90deg);
+}
+.card-title{
+  position: absolute;
+width: 220px;
+height: 28px;
+left: 100px;
+top: 45px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.05em;
+
+color: #212E42;
+
+}
+
+
+.title1{
+  position: absolute;
+width: 111px;
+height: 75px;
+left: 658px;
+top: 20px;
+
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 75px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #101A73;
+}
+.frame1{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 417px;
+  top: 15px;
+
+}
+.frame2{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 417px;
+  top: 15px;
+
+}
+.frame3{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 417px;
+  top: 15px;
+
+}
+.frame4{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 417px;
+  top: 15px;
+
+}
+.group{
+  position: absolute;
+width: 122px;
+height: 122px;
+left: 40px;
+top: 49px;
+}
+.group1{
+  position: absolute;
+width: 65.29px;
+height: 63.81px;
+left: 90px;
+top: 100px;
+
+filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+}
+.group2{
+  position: absolute;
+width: 65.29px;
+height: 63.81px;
+left: 90px;
+top: 100px;
+
+filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+}
+.gift{
+  position: absolute;
+width: 65.29px;
+height: 63.81px;
+left: 90px;
+top: 100px;
+
+filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+}
+
